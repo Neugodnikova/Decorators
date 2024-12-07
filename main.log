@@ -1,0 +1,5 @@
+2024-12-07 14:07:00,198 - Function: hello_world | Arguments:  | Return value: Hello World
+2024-12-07 14:07:00,198 - Function: summator | Arguments: 2, 2 | Return value: 4
+2024-12-07 14:07:00,199 - Function: div | Arguments: 6, 2 | Return value: 3.0
+2024-12-07 14:07:00,199 - Function: summator | Arguments: 4.3, b=2.2 | Return value: 6.5
+2024-12-07 14:07:00,199 - Function: summator | Arguments: a=0, b=0 | Return value: 0
